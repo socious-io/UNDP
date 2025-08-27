@@ -1,0 +1,34 @@
+{
+  "general-file-uploader": {
+    "click": "クリックしてアップロード",
+    "drag": "またはドラッグ＆ドロップ",
+    "or": "または",
+    "max": "最大",
+    "max-error": "{{name}}は最大サイズ{{max}}MBを超えています",
+    "limit-error": "アップロードできるファイル数は最大{{limit}}件です。ファイル数を減らしてください。"
+  },
+  "general-multi-select-popular": "人気",
+  "general-pagination": {
+    "next": "次へ",
+    "prev": "前へ",
+    "page": "ページ",
+    "of": "/"
+  },
+  "general-copy-link": "コピー",
+  "general-image-editor": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "title": "画像を編集",
+    "subtitle": "画像を希望のサイズにトリミングしてください。",
+    "connect-wallet": "ウォレットを接続",
+    "disconnect": "切断",
+    "copy-address": "アドレスをコピー",
+    "no-wallet-alert": "Cardanoウォレットが検出されませんでした。Lace、Eternl、またはYoroiなどのCardanoウォレットをインストールしてください。"
+  },
+  "kyb": {
+    "title": "組織を認証してプロジェクトを作成する",
+    "subtitle": "プロジェクトを開始するには、Sociousアカウントセンターで組織の1回限りの認証を完了してください。",
+    "cancel": "キャンセル",
+    "continue": "認証に進む"
+  }
+}

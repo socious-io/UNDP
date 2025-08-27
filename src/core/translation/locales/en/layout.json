@@ -1,0 +1,44 @@
+{
+  "solar-fund-mu": "SolarFund MU",
+  "header-login": "Login",
+  "layout-action-button": "Get Funded",
+  "layout-verification": {
+    "success-text": "Your {{title}} has been successfully verified",
+    "success-support-text": "You can now vote and donate for projects.",
+    "success-primary-btn": "Dismiss",
+    "pending-text": "Verification pending",
+    "pending-support-text": "We reviewing your submitted documents, we will notify you once it is complete.",
+    "not-verified-text": "Verify your {{title}}",
+    "not-verified-text-user": "Verify Your Account",
+    "not-verified-support-text": "To vote and donate on our platform, please verify your {{title}}.",
+    "not-verified-support-text-user": "Boost your voting power and unlock exclusive rewards by verifying your account today (optional)",
+    "not-verified-primary-btn": "Verify now",
+    "not-verified-secondary-btn": "Learn more",
+    "title-organization": "organization",
+    "title-identity": "identity"
+  },
+  "not-verified-secondary-btn": "Learn more",
+  "footer-copyright": "© 2025 SolarFund MU Global Inc. All rights reserved.",
+  "header-your-impact": "Your impact",
+  "header-setting": "Settings",
+  "header-refer": "Refer and earn",
+  "header-logout": "Logout",
+  "header-support": "Support",
+  "header-create-org": "Create an organization",
+  "submission-closed-header": "Submission Closed",
+  "submission-closed-subheader": "The project submission period has ended. Please submit your proposal in the next round.",
+  "submission-closed-button": "Close",
+  "page-not-found": "Page not found :",
+  "header-alert-organization-message": "Please switch to a organization account.",
+  "header-alert-organization-close": "Close",
+  "error-not-found": {
+    "header": "404 - Page Not Found",
+    "subheader": "Oops! The page you're looking for doesn't exist on",
+    "go-to-home-btn": "Go to Home"
+  },
+  "error-internal": {
+    "header": "Internal Server Error",
+    "subheader": "We apologize for the inconvenience. Please try again later",
+    "home-btn": " Home Page"
+  }
+}

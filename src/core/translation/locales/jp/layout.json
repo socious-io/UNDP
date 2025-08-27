@@ -1,0 +1,43 @@
+{
+  "solar-fund-mu": "ソーラーファンドMU",
+  "header-login": "ログイン",
+  "layout-action-button": "資金を調達する",
+  "layout-verification": {
+    "success-text": "あなたの{{title}}は正常に認証されました",
+    "success-support-text": "これでプロジェクトへの投票や寄付が可能になりました。",
+    "success-primary-btn": "閉じる",
+    "pending-text": "認証保留中",
+    "pending-support-text": "提出された書類を確認しています。完了次第、お知らせいたします。",
+    "not-verified-text-user": "アカウント認証のご案内",
+    "not-verified-text": "{{title}}を認証してください",
+    "not-verified-support-text-user": "アカウントを認証して、投票力アップと特典をゲットしましょう！（任意）",
+    "not-verified-support-text": "プラットフォームで投票や寄付を行うには、{{title}}の認証が必要です。",
+    "not-verified-primary-btn": "今すぐ認証",
+    "not-verified-secondary-btn": "詳細を見る",
+    "title-organization": "組織",
+    "title-identity": "アイデンティティ"
+  },
+  "not-verified-secondary-btn": "詳細を見る",
+  "footer-copyright": "© 2025 SolarFund MU Global Inc. 無断複製・転載を禁じます。",
+  "header-your-impact": "あなたの影響",
+  "header-setting": "設定",
+  "header-refer": "紹介して報酬を獲得",
+  "header-logout": "ログアウト",
+  "header-support": "サポート",
+  "header-create-org": "組織を作成",
+  "submission-closed-header": "提出期間終了",
+  "submission-closed-subheader": "プロジェクトの提出期間が終了しました。次のラウンドで提案を提出してください。",
+  "submission-closed-button": "閉じる",
+  "header-alert-organization-message": "組織アカウントに切り替えてください。",
+  "header-alert-organization-close": "閉じる",
+  "error-not-found": {
+    "header": "404 - ページが見つかりません",
+    "subheader": "お探しのページは存在しません",
+    "go-to-home-btn": "ホームに戻る"
+  },
+  "error-internal": {
+    "header": "内部サーバーエラー",
+    "subheader": "ご不便をおかけして申し訳ありません。後でもう一度お試しください",
+    "home-btn": "ホームページ"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "general-file-uploader": {
+    "click": "Click to upload",
+    "drag": "or drag and drop",
+    "or": "or",
+    "max": "max",
+    "max-error": "{{name}} exceeds the maximum size of {{max}}MB",
+    "limit-error": "You can upload a maximum of {{limit}} files. Please select fewer files."
+  },
+  "general-multi-select-popular": "Popular",
+  "general-pagination": {
+    "next": "Next",
+    "prev": "Previous",
+    "page": "Page",
+    "of": "of"
+  },
+  "general-copy-link": "Copy",
+  "general-image-editor": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "title": "Edit Image",
+    "subtitle": "Crop your image to the desired dimensions."
+  },
+  "connect-wallet": "Connect wallet",
+  "disconnect": "Disconnect",
+  "copy-address": "Copy Address",
+  "no-wallet-alert": "No Cardano wallet detected. Please install a Cardano wallet like Lace, Eternl, or Yoroi to continue.",
+  "kyb": {
+    "title": "Verify your organization to create a project",
+    "subtitle": "To start a project, please complete a one-time verification of your organization in the Socious Account Center.",
+    "cancel": "Cancel",
+    "continue": "Continue to Verification"
+  }
+}

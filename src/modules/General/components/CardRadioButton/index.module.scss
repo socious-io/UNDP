@@ -1,0 +1,64 @@
+@import 'src/styles/constants/_primitives.scss';
+
+.container {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem;
+    position: relative;
+    border: solid 1px $color-grey-200;
+    border-radius: $radius-xl;
+    cursor: pointer;
+
+    &:hover {
+        box-shadow: $shadow-sm;
+    }
+
+    &--selected {
+        border: solid 2px $color-primary-600;
+    }
+
+    &--disabled {
+        background-color: $color-grey-200;
+        &:hover {
+            box-shadow: none;
+        }
+    }
+
+    .wrapper {
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 1rem;
+
+        &--col {
+            flex-direction: column;
+        }
+    }
+
+    .content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+
+        &__title,
+        &__desc {
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 24px;
+            color: $color-grey-700;
+            text-align: left;
+        }
+
+        &__desc {
+            font-weight: 400;
+            color: $color-grey-600;
+        }
+    }
+
+    .radio {
+        position: absolute;
+        right: 1rem;
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "solar-fund-mu": "SolarFund MU",
+  "header-login": "تسجيل الدخول",
+  "layout-action-button": "احصل على تمويل",
+  "layout-verification": {
+    "success-text": "تم التحقق من {{title}} الخاص بك بنجاح",
+    "success-support-text": "يمكنك الآن التصويت والتبرع للمشاريع.",
+    "success-primary-btn": "إغلاق",
+    "pending-text": "التحقق في انتظار المراجعة",
+    "pending-support-text": "نحن نراجع المستندات التي قدمتها، سنخطرك بمجرد اكتمال العملية.",
+    "not-verified-text": "تحقق من {{title}} الخاص بك",
+    "not-verified-text-user": "تحقق من حسابك",
+    "not-verified-support-text": "للتصويت والتبرع على منصتنا، يرجى التحقق من {{title}} الخاص بك.",
+    "not-verified-support-text-user": "عزز قوة تصويتك وافتح مكافآت حصرية من خلال التحقق من حسابك اليوم (اختياري)",
+    "not-verified-primary-btn": "تحقق الآن",
+    "not-verified-secondary-btn": "تعرف على المزيد",
+    "title-organization": "منظمة",
+    "title-identity": "هوية"
+  },
+  "not-verified-secondary-btn": "تعرف على المزيد",
+  "footer-copyright": "© 2025 SolarFund MU Global Inc. جميع الحقوق محفوظة.",
+  "header-your-impact": "تأثيرك",
+  "header-setting": "الإعدادات",
+  "header-refer": "أرسل دعوة واربح",
+  "header-logout": "تسجيل الخروج",
+  "header-support": "الدعم",
+  "header-create-org": "إنشاء منظمة",
+  "submission-closed-header": "انتهاء فترة التقديم",
+  "submission-closed-subheader": "انتهت فترة تقديم المشاريع. يرجى تقديم اقتراحك في الجولة القادمة.",
+  "submission-closed-button": "إغلاق",
+  "header-alert-organization-message": "يرجى التبديل إلى حساب مؤسسة.",
+  "header-alert-organization-close": "إغلاق",
+  "error-not-found": {
+    "header": "404 - الصفحة غير موجودة",
+    "subheader": "عذرًا! الصفحة التي تبحث عنها غير موجودة على",
+    "go-to-home-btn": "الانتقال إلى الصفحة الرئيسية"
+  },
+  "error-internal": {
+    "header": "خطأ في الخادم الداخلي",
+    "subheader": "نعتذر عن الإزعاج. يرجى المحاولة مرة أخرى لاحقًا",
+    "home-btn": "الصفحة الرئيسية"
+  }
+}

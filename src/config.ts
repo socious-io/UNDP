@@ -1,0 +1,18 @@
+export const config = {
+  env: import.meta.env.VITE_ENV,
+  accessExpire: import.meta.env.VITE_ACCESS_EXPIRE,
+  refreshExpire: import.meta.env.VITE_REFRESH_EXPIRE,
+  baseURL: import.meta.env.VITE_BASE_URL,
+  sociousWorkBaseURL: import.meta.env.VITE_BASE_URL_SOCIOUS_WORK,
+  sociousIDBaseURL: import.meta.env.VITE_BASE_URL_SOCIOUS_ID,
+  appBaseURL: import.meta.env.VITE_APP_URL,
+  accountCenterURL: import.meta.env.VITE_ACCOUNT_CENTER_URL,
+  payoutDonationsAddress: import.meta.env.VITE_PAYOUT_DONATIONS_ADDRESS,
+  stripePublicKey: import.meta.env.VITE_STRIPE_PUBLIC_KEY,
+  rates: {
+    ada: import.meta.env.VITE_CARDANO_ADA_RATE,
+    fiat: import.meta.env.VITE_FIAT_API_RATE,
+  },
+};
+
+export const isTestingEnvironment = config.env === 'test';
